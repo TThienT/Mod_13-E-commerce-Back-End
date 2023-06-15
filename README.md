@@ -13,21 +13,20 @@
 
 ## Description
 
-Note Taker is an application designed for users to write, store, and delete notes. This project serves as a personal challenge to showcase my proficiency in developing both the backend and frontend components of a website. By successfully integrating Node and Express.js, I aim to demonstrate my skills in full-stack coding. Additionally, this endeavor provides an opportunity for me to enhance my proficiency with Insomnia, a testing tool, and further refine my abilities in Node and Express.js.
+This exceptional e-commerce application incorporates the necessary back-end components, utilizing the powerful Express.js API and seamlessly integrating Sequelize with a MySQL database. The combination of these cutting-edge technologies ensures the efficient handling of data and fosters smooth interaction with the e-commerce site. Express.js API acts as a robust foundation, proficiently managing incoming requests and effectively routing them to the appropriate endpoints. Meanwhile, Sequelize simplifies complex database operations, enabling seamless data manipulation and storage without the need for convoluted SQL queries. This cohesive integration empowers the e-commerce application to deliver a top-notch user experience, characterized by reliability, efficiency, and flawless functionality.
 
 ## Installation
 
+To use the application you must clone this repo, and launch the server.js through the terminal.
 
 ## Usage
 
 
+## Tests
+
 
 ## Credits
 -Help from Course provided solution code
-
-
-## Tests
-
 
 
 ## License
